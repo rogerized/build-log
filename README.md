@@ -57,7 +57,7 @@ Optional and non-urgent.
 
 ---
 
-## Build Log Labels
+## 🏷️ Build Log Labels
 
 - **Decision:** A committed choice (scope, channel, rule).
 - **Test:** The smallest next action to generate real-world signal.
