@@ -37,6 +37,7 @@ Optional and non-urgent.
 - **Learning:** Learned about greate communities like microconf and how to get sparring partners
 - **Decision:** Commit to a build log, to find good sparring partners and better reflect my activities
 - **Shipped:** Build log on github, small webpage about me as builder
+- **Next:** Finalize rogerized page, create and add email
 
 ### 2026-W05
 - **Shipped:** Systems archive overhaul (layout restructure + card design) and a major filter UI revamp with responsive CSS iterations; homepage system cards upgraded with thumbnails; deprecated front-page templates removed (5ead4b2, 8ece2ba, fd48b81, 5d8df55, 897bfd1, 12e52c3, 6d35d2e, 473b655)
