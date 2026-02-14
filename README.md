@@ -33,6 +33,12 @@ Optional and non-urgent.
 
 ## 📓 Build Log (weekly)
 
+### 2026-W07
+- **Learning:** If you are not embarassed by the first version of your product, you've launched too late. (Reid Hoffman)
+- **Decision:** Take site public asap
+- **Shipped:** Added About Page, obfuscated email, added article, removed placeholders
+- **Next:** Add CTA tracking
+
 ### 2026-W06
 - **Learning:** Learned about greate communities like microconf and how to get sparring partners
 - **Decision:** Commit to a build log, to find good sparring partners and better reflect my activities
