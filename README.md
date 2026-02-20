@@ -33,6 +33,12 @@ Optional and non-urgent.
 
 ## 📓 Build Log (weekly)
 
+### 2026-W08
+- **Learning:** Predictable acquisition of recurring revenue with annual prepay in a good market creates a cash machine (Jason Cohen)
+- **Decision:** Rethinking if a two-sided platform has strong enough B2B revenue foundation 
+- **Shipped:** New cloud and setup structure for giving biz projects/ideas/advice a better place
+- **Next:** Add CTA tracking
+
 ### 2026-W07
 - **Learning:** If you are not embarassed by the first version of your product, you've launched too late. (Reid Hoffman)
 - **Decision:** Take site public asap
