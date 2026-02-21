@@ -36,7 +36,7 @@ Optional and non-urgent.
 ### 2026-W08
 - **Learning:** Predictable acquisition of recurring revenue with annual prepay in a good market creates a cash machine (Jason Cohen)
 - **Decision:** Rethinking if a two-sided platform has strong enough B2B revenue foundation 
-- **Shipped:** New cloud and setup structure for giving biz projects/ideas/advice a better place
+- **Shipped:** Behind the scene new cloud setups to give biz projects/ideas/advice a better place. Installed Plausible.
 - **Next:** Add CTA tracking
 
 ### 2026-W07
