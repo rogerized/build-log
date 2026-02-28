@@ -33,6 +33,12 @@ Optional and non-urgent.
 
 ## 📓 Build Log (weekly)
 
+### 2026-W09
+- **Learning:** AI Anxiety, if you are not part of a core process for your customer, you can be wiped out easily i.e. replaced by plugins etc.
+- **Decision:** Compared playbooks from prestley, walling, levels - mainly stick to walling, ship fast from levels, diagnose like prestley 
+- **Shipped:** Holidays & Derailed - Concept for compliance sanctionslists in DACH region
+- **Next:** Add CTA tracking
+
 ### 2026-W08
 - **Learning:** Predictable acquisition of recurring revenue with annual prepay in a good market creates a cash machine (Jason Cohen)
 - **Decision:** Rethinking if a two-sided platform has strong enough B2B revenue foundation 
