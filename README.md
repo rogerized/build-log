@@ -33,6 +33,18 @@ Optional and non-urgent.
 
 ## 📓 Build Log (weekly)
 
+### 2026-W10
+- **Learning:** Time is the biggest constraint in life. Moving forward efficiently is easier said than done. But maybe instead of having a universal plan, it maybe more effective to aim for experiences you would like to have?
+- **Decision:** Moving on to complete Formodo MVP and create evidence for traction.
+- **Shipped:** Implemented CTA Tracking for internal and outbound actions in plausible and on backend
+- **Next:** Add CTA definitions in content
+
+### 2026-W10
+- **Learning:** Everyone will have an agent, agents will have socials. Every app is a slow API. CLI over MCP for agents (better filtering). (Peter Steinberger)
+- **Decision:** AI Agents are a must playfield - but have some fun with it. Solve Problems, AI is not the main biz driver.
+- **Shipped:** OpenClaw installed und running. Submitted application for AI based App at ETH.
+- **Next:** Add CTA tracking
+
 ### 2026-W09
 - **Learning:** AI Anxiety, if you are not part of a core process for your customer, you can be wiped out easily i.e. replaced by plugins etc.
 - **Decision:** Compared playbooks from prestley, walling, levels - mainly stick to walling, ship fast from levels, diagnose like prestley 
