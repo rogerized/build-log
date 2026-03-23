@@ -33,6 +33,18 @@ Optional and non-urgent.
 
 ## 📓 Build Log (weekly)
 
+### 2026-W12
+- **Learning:** Let beta ride (portfolio). Only chase alpha where you have real edge. Run experiments, sharpen the edge, win either way.
+- **Decision:** Complete Formodo MVP and track engagement, clarified mandate track
+- **Shipped:** Nothing
+- **Next:** Add more content
+
+### 2026-W11
+- **Learning:** If I stopped Marketing tomorrow, would this business still make money next month? (David Heacock) Real recurring reveneue.
+- **Decision:** Moving on to complete Formodo MVP and create evidence for traction.
+- **Shipped:** Added CTA definition in content
+- **Next:** Add more content
+
 ### 2026-W10
 - **Learning:** Time is the biggest constraint in life. Moving forward efficiently is easier said than done. But maybe instead of having a universal plan, it maybe more effective to aim for experiences you would like to have?
 - **Decision:** Moving on to complete Formodo MVP and create evidence for traction.
